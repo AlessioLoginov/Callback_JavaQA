@@ -1,1 +1,0 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/feihrkxs5wjvt10v/branch/main?svg=true)](https://ci.appveyor.com/project/AlessioLoginov/callback-javaqa/branch/main)
